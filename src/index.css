@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.record{
+  border: 1px solid green;
+}
+.review-container{
+  color: green;
+}
